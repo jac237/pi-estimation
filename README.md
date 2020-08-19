@@ -13,7 +13,7 @@ We know from alegbra that the **area of a circle** can be found using the equati
 
 > <img src="https://latex.codecogs.com/gif.latex?\pi&space;\times&space;r&space;^&space;2" />
 
-Since the unit circle has radius 1, the area of the unit circle is $\pi$. The area of the enclosing square is 4. This computation gives us a **ratio**:
+Since the unit circle has radius 1, the area of the unit circle is <img src="https://latex.codecogs.com/gif.latex?\pi" />. The area of the enclosing square is 4. This computation gives us a **ratio**:
 
 > <img src="https://latex.codecogs.com/gif.latex?\frac{\text{area&space;of&space;circle}}{\text{area&space;of&space;square}}&space;=&space;\frac{\pi}{4}" />
 
