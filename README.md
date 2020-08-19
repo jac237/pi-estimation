@@ -11,7 +11,8 @@ The image above describes a **unit circle**, a circle with radius 1, enclosed by
 
 We know from alegbra that the **area of a circle** can be found using the equation:
 
-$$ \pi \times r ^ 2$$
+<!-- $$ \pi \times r ^ 2$$ -->
+![img](http://latex.codecogs.com/svg.latex?%24%24+%5Cpi+%5Ctimes+r+%5E+2%24%24%0D%0A)
 
 Since the unit circle has radius 1, the area of the unit circle is $\pi$. The area of the enclosing square is 4. This computation gives us a **ratio**:
 
@@ -40,6 +41,9 @@ $$\frac{\text{\# of red dots}}{\text{total \# of dots}} \times 4 = \pi$$
 3.142857142857143
 3.145038167938931
 ```
+
+## References
+* https://chaonan99.github.io/2016/how-to-add-equation-on-github-markdown-file/
 
 ## License
 [MIT License](./LICENSE.md)
