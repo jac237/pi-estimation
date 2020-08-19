@@ -4,7 +4,7 @@
 <!-- ![Pi Visualization](./assets/images/pi-visualization.png) -->
 <img src="./assets/images/pi-visualization.png" alt="Pi Estimation Visual" width="300"/>
 
-See the live [p5.js Editor](https://editor.p5js.org/jac237/sketches/3tiMjKd3U)
+See the live preview with the [p5.js Editor](https://editor.p5js.org/jac237/sketches/3tiMjKd3U)!
 
 ## Background
 
